@@ -1,7 +1,7 @@
 # Hi there 👋 I'm { Nick } 🧑‍💻 
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+<br>
 
 Hi, I'm Nick Smith, a passionate full stack web developer and a freelance software engineer from Pittsburgh, PA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
