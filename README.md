@@ -1,5 +1,9 @@
 # Hi there 👋 I'm { Nick } 🧑‍💻 
 
+Hi, I'm Nick Smith, a passionate full stack web developer and a freelance software engineer from Pittsburgh, PA. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithereens23nas&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithereens23nas)](https://github.com/smithereens23nas/github-readme-stats)
 
