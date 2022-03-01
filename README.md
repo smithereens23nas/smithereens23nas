@@ -1,6 +1,6 @@
 # Hi there 👋 I'm { Nick } 🧑‍💻 
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithereens23nas&show_icons=true&theme=onedark)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithereens23nas&show_icons=true&theme=cobalt)
 
 
 
