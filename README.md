@@ -2,7 +2,7 @@
 
 <a href="mailto: nicholas23smith@gmail.com"><img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nicholas23smith/"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img align="left" alt="medium" src="" />
+<!-- <img align="left" alt="medium" src="" /> -->
 
 <br>
 <br>
