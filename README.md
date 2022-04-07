@@ -13,7 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithereens23nas&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithereens23nas&layout=compact)](https://github.com/smithereens23nas/github-readme-stats)
-[![Nick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smithereens23nas)](https://github.com/smithereens23nas/github-readme-stats)
+<!-- [![Nick's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smithereens23nas)](https://github.com/smithereens23nas/github-readme-stats) -->
 
 
 
